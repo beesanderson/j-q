@@ -11,3 +11,13 @@ elShip.textContent = shipping;
 
 var elTotal = document.getElementById('total');
 elTotal.textContent = total
+
+/* Arithmetic Operator include...
+    +  plus sign
+    -  minus sign
+    /  division sign
+    *  multiplication sign
+    ++ increment sign
+    -- decrement sign
+    %  modulus sign
+*/
